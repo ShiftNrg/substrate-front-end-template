@@ -7,15 +7,13 @@ configuration. To learn about Substrate itself, visit the
 
 The template is built with [Create React App](https://github.com/facebook/create-react-app)
 and [Polkadot js API](https://polkadot.js.org/api/). Familiarity with these tools
-will be helpful, but the template strives to be self-explanatory. To learn how
-this template was built, visit the
-[Substrate Front-End Tutorial](https://substrate.dev/docs/en/tutorials/substrate-front-end/).
+will be helpful, but the template strives to be self-explanatory.
 
 ## Using The Template
 
 ### Installation
 
-The code can be installed using [git](https://git-scm.com/) and [yarn](https://yarnpkg.com/).
+The codebase is installed using [git](https://git-scm.com/) and [yarn](https://yarnpkg.com/). This tutorial assumes you have installed yarn globally prior to installing it within the subdirectories. For the most recent version and how to install yarn, please refer to [yarn](https://yarnpkg.com/) documentation and installation guides. 
 
 ```bash
 # Clone the repository
